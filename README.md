@@ -1,4 +1,16 @@
 ## Hi there 👋
+I'm Francesco, a software engineer focused on Artificial Intelligence and App development.
+
+## 👀 About me
+* 📍 Based in Modena, Italy
+* 🎓 Student in Artificial Intelligence Engineering at [UNIMORE](https://www.unimore.it/en)
+* 🔍 Check out all my projects [here](https://github.com/dcfrenci?tab=repositories)
+* 📫 Contact me directly at dcfrenci@gmail.com
+
+## My skills
+
+
+## 🔭 Current Focus
 
 <!--
 **dcfrenci/dcfrenci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
