@@ -8,10 +8,15 @@ I'm Francesco, a software engineer focused on Artificial Intelligence and App de
 * 📫 Contact me directly at dcfrenci@gmail.com
 
 ## My skills
-
+<p align="centre">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/>
+</p>
 
 ## 🔭 Current Focus
-
+* Learn how to devop and deploy a SaaS 
 <!--
 **dcfrenci/dcfrenci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
