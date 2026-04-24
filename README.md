@@ -6,7 +6,7 @@ I'm a full-cycle software engineer focusing on Artificial Intelligence and App D
 * 📍 Based in Modena, Italy
 * 🎓 MSc Artificial Intelligence & BSc Computer Science Engineering at [UNIMORE](https://www.unimore.it/en)
 * ☁️ Interested in the AI Ecosystem, Cloud Architecture, and Algorithmic Optimization
-* 💼 Connect with me on [LinkedIn](https://linkedin.com/in/francesco-della-casa/) or via [Email](mailto:dcfrenci@gmail.com)
+* 💼 Connect with me on [LinkedIn](https://linkedin.com/in/francesco-della-casa/) or via [Email](mailto:dcfrenci@gmail.com) (dcfrenci@gmail.com)
 
 ### 💻 Technical Skills
 <p align="center">
@@ -29,17 +29,3 @@ I'm a full-cycle software engineer focusing on Artificial Intelligence and App D
 ### 🔭 Current Focus
 * Learning how to develop and deploy SaaS platforms
 * Expanding knowledge in distributed cloud systems and scalable architectures
-<!--
-**dcfrenci/dcfrenci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
